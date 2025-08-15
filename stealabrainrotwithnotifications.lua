@@ -61,4 +61,5 @@ local function simulateBrainrotSpawn()
     end
 end
 
-simulateBrainrotSpawn()
+simulateBrainr
+otSpawn()
